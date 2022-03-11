@@ -1,5 +1,8 @@
 # Ide Solusi: Sistem Pemesanan Tiket Objek Pariwisata Situ Bagendit 
 
+## ERD Rancangan Database
+![plot](./Screenshot%202022-03-11%20095917.png)
+
 ## Deskripsi
 Aplikasi ini dibuat untuk mempermudah pemesanan tiket di objek pariwisata Situ Bagendit. Apliasi ini memiliki fitur-fitur: 
 - Melakukan pemesanan tiket
@@ -49,9 +52,16 @@ Aplikasi ini dibuat untuk mempermudah pemesanan tiket di objek pariwisata Situ B
 
 ### jenis_tiket
 - id_jenis_tiket
+- id_objek_wisata
 - nama
 
 ### loket
 - id_loket
 - nama
 - lokasi
+
+### objek_wisata
+- id_objek_wisata
+- nama
+- lokasi
+- photo
