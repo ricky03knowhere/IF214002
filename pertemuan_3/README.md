@@ -79,4 +79,4 @@ Aplikasi ini dibuat untuk mempermudah pemesanan tiket di objek pariwisata Situ B
 | jenis_tiket (1 , N) ----- (1 , N) objek_wisata | Each jenis_tiket **must** have **one or more** objek_wisata |
 
 ## ERD Crow's Foot  Database
-![img 404](./)
+![img 404](./Screenshot%202022-03-18%20092224.png)
