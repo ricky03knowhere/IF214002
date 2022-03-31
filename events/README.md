@@ -1,3 +1,30 @@
+## Event : Jendela Data : The Role of Data Scientists at Tokopedia @Algoritma
+
+### Dertail Acara
+- Waktu : 30 Maret 2022
+- Penyelenggara : Algoritma & Tokopedia
+- Screenshot :
+![img](./img/Screenshot%20(116).png)
+### Pointer
+- Di zaman teknologi yang sangat maju ini, profesi Data Scientist berada dalam demand yang tinggi atau sangat dibutuhkan.
+- Data Scientist adalah gabungan dari ilmu matematika, bisnis dan informatika.
+- Data Scientist bekerja sama dengan product manager, product developer, dan sofware developer
+- Untuk mengawali karir menjadi Data Scientist :
+  - Membuat portfolio atau project secara mandiri
+  - Mengikuti bootcamp atau course online
+- Skill dasar untuk menjadi Data Scientist :
+  - Phyton, SQL
+  - Bussines knowledge
+  - Math & Statistics
+- Pekerjaan utama Data Scientist adalah sebagai problem solver & delivering data serta mengembangkan auto mechine learning.
+- Perbedaan Data Engeneer, Analyst, Scientist
+  - Engeneer : Mengumpulkan data yang kemudian diberikan kepada Data Scientist & Analyst
+  - Analyst : Mendeskripsikan data secara informatif mengenai apa yang telah dan sedang terjadi
+  - Scientist : Membaca, memprediksi data serta membuat mechine learning
+- Profesi Data Scientist mucul dari banyaknya data yang tersebar di zaman digital ini, seperti dari internet, website atau plarform digital lainya. Maka dibutuhkan seseorang untuk mengumpulkan, merapihkan dan mengolah data-data tersebut.
+
+
+
 ## Course : Deep Learning Data Science @UGM
 
 ### Dertail Acara
