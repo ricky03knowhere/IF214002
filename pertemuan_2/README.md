@@ -1,5 +1,13 @@
 # Ide Solusi: Sistem Pemesanan Tiket Objek Pariwisata Situ Bagendit 
 
+## Changelog
+View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-2)
+- 🆕 `CREATE` : Membuat rancangan project akhir berupa : 
+  - Ide solusi aplikasi 
+  - Deskripsi & fitur-fitur dari aplikasi
+  - Menentukan entitas & atribut dari aplikasi
+- 🆕 `CREATE` : Membuat Entity Relationship Diagram (ERD) konseptual untuk rancangan aplikasi
+
 ## ERD Rancangan Database
 ![plot](./Screenshot%202022-03-11%20095917.png)
 

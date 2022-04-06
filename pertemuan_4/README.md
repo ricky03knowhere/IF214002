@@ -1,13 +1,23 @@
 # Ide Solusi: Sistem Pemesanan Tiket Objek Pariwisata Situ Bagendit 
 
 ## Changelog
-View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-3)
-- 🚀 `UPDATE` : Menambahkan Primary key, Composite key & Foreign key dari setiap Entitas / Tabel
-- 🚀 `UPDATE` : Mengubah ERD Conceptual menjadi ERD Logical
-- 🆕 `CREATE` : Membuat ERD Crow's Foot Database
+View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-4)
+- 🚀 `UPDATE` : Menambahkan cardinality dan optionality untuk setiap Entitas / Tabel
+- 🆕 `CREATE` : Membuat ERDish atau relasi antar Entitas / Tabel
 
 ## ERD Crow's Foot  Database
 ![img 404](./Screenshot%202022-03-18%20092224.png)
+
+## Relationship
+|Relationship| ERDish|
+|------------|--------|
+| user (1 , 1) ----- (0 , N) pemesanan | Each user **may** order **zero or more** pemesanan |
+| pemesanan (1 , N) ----- (1 , 1) detail_pemesanan | Each pemesanan **must** have **one and only one** detail_pemesanan |
+| pemesanan (1 , 1) ----- (0 , 1) pembayaran | Each pemesanan **may be** paid **zero or one** pembayaran |
+| detail_pemesanan (0 , 1) ----- (1 , N) tiket | Each detail_pemesanan **must** have  **one or more** tiket |
+| detail_pemesanan (0 , N) ----- (1 , N) loket | Each detail_pemesanan **must** have  **one or more** loket |
+| tiket (1 , N) ----- (1 , 1) jenis_tiket | Each tiket **must** have **one and only one** jenis_tiket |
+| jenis_tiket (1 , N) ----- (1 , N) objek_wisata | Each jenis_tiket **must** have **one or more** objek_wisata |
 
 ## Deskripsi
 Aplikasi ini dibuat untuk mempermudah pemesanan tiket di objek pariwisata Situ Bagendit. Apliasi ini memiliki fitur-fitur: 
