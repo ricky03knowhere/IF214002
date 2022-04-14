@@ -1,16 +1,13 @@
 # Ide Solusi: Sistem Pemesanan Tiket Objek Pariwisata Situ Bagendit 
 
 ## Changelog
-View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-6)
+View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-7)
 - ✅ `CREATE` : Mengerjakan Quiz
-
-
-## Quiz
-![Quiz pertemuan 7](./quiz.md)
-
+  - [Quiz pertemuan 7](./quiz.md)
 
 ## ERD Crow's Foot  Database
 Setelah Normalisasi
+![img 404](./Screenshot%202022-04-08%20102450.png)
 
 <details>
   <summary>Sebelum Normalisasi</summary>
