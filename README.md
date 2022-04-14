@@ -13,6 +13,7 @@
 - [Pertemuan 4](#pertemuan-4)
 - [Pertemuan 5](#pertemuan-5)
 - [Pertemuan 6](#pertemuan-6)
+- [Pertemuan 7](#pertemuan-7)
 
 ### [Pertemuan 1](pertemuan_1)
 - ⚡Instalasi Diagrams.net
@@ -51,3 +52,6 @@
   - Menambahkan atribut *tanggal_bayar*, *img_barcode* & *status*  pada tabel *pembayaran*
 
 - 🚀 `UPDATE` : Menambahkan relasi baru pada ERDish
+### [Pertemuan 7](pertemuan_7)
+- ✅ `CREATE` : Mengerjakan Quiz
+  - [Quiz pertemuan 7](./pertemuan_7/quiz.md)
