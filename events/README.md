@@ -1,3 +1,96 @@
+## Event: RevoU Mini Course - Data Analytics @RevoU
+
+### Dertail Acara
+- Waktu : 21 Maret - 1 April 2022
+- Penyelenggara : RevoU
+
+### Pointer
+- **Day 1**
+  - Pengenalan Mini Course RevoU
+  - Data Analytics adalah proses bagaimana kita mengolah big data sampai mengeluarkan/menghasilkan value.
+  - <details>
+      <summary>Big Data Implementation in the Industry :</summary>
+
+    ![img 404](./img/Screenshot%20(105).png)
+    ![img 404](./img/Screenshot%20(106).png)
+    </details>
+
+  - Data Analyst Tasks (dinamis):
+    - Membersihkan dan mengorganisasikan raw data
+    - Memverifikasi sumber & relevansi dari raw data yang digunakan
+    - Mendeskripsiakan statistik untuk mengintepretasikan data
+    - Memvisualisasikan data
+
+  - Why Data Analyst :
+    - Besarnya gap talen digital
+    - Salah satu pekerjaan yang banyak dibutuhkan
+  - Top 4 skills yg harus dipunyai: SQL, Excel, Tableau, Phyton
+
+- **Day 2**
+  - Intinya Data analytics dipakai untuk membuat sebuah keputusan yang baik dalam bisnis.
+
+- **Day 3**
+  - Praktik simulasi membuat database
+  - DBMS (Data Management System), Software untuk menyimpan dan mengelola data di database.
+  - ERD (Entity Relation Diagram) representasi dari hubungan antar tabel dalam database.
+
+- **Day 4**
+  - Banyak Data Scientist berawal dari Data analisist, dengan mempelajari skil programming, mempelajari matematika tingkat lanjut, dan memahami machine learning.
+
+- **Day 5**
+  - Praktik simulasi Phyton dasar dalam Google Collab.
+
+- **Day 6**
+  - Sharing session dengan alumni RevoU
+
+- **Day 7**
+  - 3C in Elevator pitch:
+    - Compact: How long? (30-90 detik)
+    - Connection: what to do?
+    - Content: what to say?
+
+- **Day 8**
+  - Sharing session dengan alumni RevoU
+
+- **Day 9**
+  - Data visualization menjadi penting karena 80% orang lebih cepat menangkap secara visual
+  - <details>
+    <summary>Jenis-jenis visualisasi data</summary>
+
+    ![img 404](./img/Screenshot%20(118).png)
+    ![img 404](./img/Screenshot%20(119).png)
+    ![img 404](./img/Screenshot%20(120).png)
+    ![img 404](./img/Screenshot%20(121).png)
+    ![img 404](./img/Screenshot%20(122).png)
+    ![img 404](./img/Screenshot%20(123).png)
+    ![img 404](./img/Screenshot%20(124).png)
+    ![img 404](./img/Screenshot%20(125).png)
+    ![img 404](./img/Screenshot%20(126).png)
+    ![img 404](./img/Screenshot%20(127).png)
+    ![img 404](./img/Screenshot%20(128).png)
+  </details>
+
+  - <details>
+    <summary>Penggunaan warna dalam visualisasi data</summary>
+
+    ![img 404](./img/Screenshot%20(130).png)
+
+  </details>
+
+  - <details>
+    <summary>Contoh dalam visualisasi data</summary>
+
+    ![img 404](./img/Screenshot%20(132).png)
+    ![img 404](./img/Screenshot%20(133).png)
+  </details>
+
+  - 4 Pertanyaan supaya komunikasi data suscess :
+    - Apa yang akan diceritakan dari data tersebut ?
+    - Apa jenis data yang akan dijelaskan ?
+    - Apa jenis chart yang paling efisien ?
+    - Siapa audiens yang akan mendengarkan ?
+
+
 ## Event : Jendela Data : The Role of Data Scientists at Tokopedia @Algoritma
 
 ### Dertail Acara
