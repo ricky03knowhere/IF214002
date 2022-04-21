@@ -1,7 +1,9 @@
-## Quiz Pertemuan 7
-### Soal
+# Quiz Pertemuan 7
+## Soal
 1) Berikan contoh pemanfaatan data historis
 2) Rancang ERD untuk penyimpanan data karyawan dari sebuah perusahaan, lengkap dengan data historis gaji, data historis tempat tinggal, dan data historis jabatan. Selanjutnya, implementasikan ERD tersebut pada basis data relasional (MySQL / PostgreSQL / SQL Server / dll) menggunakan perintah
+
+## Jawaban
 ### 1) Contoh pemanfaatan data historis
 ![img](./smartphone-market-share-620x285.jpg)
 - Contoh di atas adalah data histori penjualan smartphone dari berbagai brand dari tahun 2007 - 2016

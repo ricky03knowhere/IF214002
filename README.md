@@ -14,6 +14,7 @@
 - [Pertemuan 5](#pertemuan-5)
 - [Pertemuan 6](#pertemuan-6)
 - [Pertemuan 7](#pertemuan-7)
+- [UTS](#UTS)
 
 ### [Pertemuan 1](pertemuan_1)
 - ⚡Instalasi Diagrams.net
@@ -55,3 +56,6 @@
 ### [Pertemuan 7](pertemuan_7)
 - ✅ `CREATE` : Mengerjakan Quiz
   - [Quiz pertemuan 7](./pertemuan_7/quiz.md)
+
+### [UTS](UTS)
+- ✅ `CREATE` : Mengerjakan UTS
