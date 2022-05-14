@@ -16,6 +16,7 @@
 - [Pertemuan 7](#pertemuan-7)
 - [UTS](#UTS)
 - [UTS Praktikum](#UTS_praktikum)
+- [Pertemuan 10](#pertemuan-10)
 
 ### [Pertemuan 1](pertemuan_1)
 - ⚡Instalasi Diagrams.net
@@ -63,3 +64,6 @@
 
 ### [UTS Praktikum](UTS_praktikum)
 - ✅ `CREATE` : Mengerjakan UTS Praktikum
+
+### [Pertemuan 10](pertemuan_10)
+- ✅ `CREATE` : Mengerjakan Tugas
