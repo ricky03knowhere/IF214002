@@ -14,8 +14,8 @@
 - [Pertemuan 5](#pertemuan-5)
 - [Pertemuan 6](#pertemuan-6)
 - [Pertemuan 7](#pertemuan-7)
-- [UTS](#UTS)
-- [UTS Praktikum](#UTS_praktikum)
+- [Pertemuan 8 (UTS)](#pertemuan-8)
+- [Pertemuan 9](#pertemuan-9)
 - [Pertemuan 10](#pertemuan-10)
 
 ### [Pertemuan 1](pertemuan_1)
@@ -59,11 +59,15 @@
 - ✅ `CREATE` : Mengerjakan Quiz
   - [Quiz pertemuan 7](./pertemuan_7/quiz.md)
 
-### [UTS](UTS)
+### [Pertemuan 8](#!)
 - ✅ `CREATE` : Mengerjakan UTS
-
-### [UTS Praktikum](UTS_praktikum)
+    - [Soal & jawaban UTS](UTS)
 - ✅ `CREATE` : Mengerjakan UTS Praktikum
+  - [Soal & jawaban UTS Praktikum](UTS_praktikum)
+
+### [Pertemuan 9](pertemuan_9)
+- ⚡Instalasi Docker & Mysql
+- ⚡Instalasi DBeaver
 
 ### [Pertemuan 10](pertemuan_10)
 - ✅ `CREATE` : Mengerjakan Tugas
