@@ -5,7 +5,7 @@
 
 ## Jawaban
 ### 1) Contoh Perintah SQL
-- **DDL (Data Definition Language**)
+- **DDL (Data Definition Language)**
   
   Perintah-perintah untuk membuat atau menghapus data/tabel.
   - `CREATE` : Membuat database, table, index , dll.

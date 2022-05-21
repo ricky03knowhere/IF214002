@@ -17,6 +17,7 @@
 - [Pertemuan 8 (UTS)](#pertemuan-8)
 - [Pertemuan 9](#pertemuan-9)
 - [Pertemuan 10](#pertemuan-10)
+- [Pertemuan 11](#pertemuan-11)
 
 ### [Pertemuan 1](pertemuan_1)
 - ⚡Instalasi Diagrams.net
@@ -71,3 +72,6 @@
 
 ### [Pertemuan 10](pertemuan_10)
 - ✅ `CREATE` : Mengerjakan Tugas
+
+### [Pertemuan 11](pertemuan_11)
+- ✅ `CREATE` : Mengerjakan Assesment
