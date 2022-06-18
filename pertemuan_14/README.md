@@ -1,9 +1,10 @@
 # Pertemuan_14
 ## Changelog
 View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-14)
-- ✅ CREATE : Mengerjakan Tugas
+- ✅ CREATE : Mengerjakan Tugas Teori
+- ✅ CREATE : Mengerjakan Tugas Praktikum
 
-## Tugas
+## Tugas Teori
 1. Sebagai pemimpin organisasi / perusahaan, dari data hasil aplikasi yang sudah dibuat, tentukan masalah-masalah prioritas untuk dicari solusinya !
 
 2. Tentukan struktur data dan bentuk visualisasinya ! Ada contoh visualisasinya (screenshot)
@@ -13,37 +14,37 @@ View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-14)
 ## Jawab
 1. Daftar Masalah-masalah prioritas
     - Ingin tahu wilayah / kota dengan pengunjung terbanyak
-    - Ingin tahu Agregat pemasukan penjualan tiket perbulan
+    - Ingin tahu Agregat pemasukan penjualan tiket perminggu
     - Ingin tahu Agregat objek wisata terfavorit (pengunjung terbanyak)
     - Ingin tahu Agregat jumlah pengunjung perhari
-    - Ingin tahu Agregat jumlah tiket terjual perbulan
+    - Ingin tahu Agregat jumlah tiket terjual perminggu
 
 2. Struktur data & bentuk visualisasinya
     - Mencari wilayah / kota dengan pengunjung terbanyak
       - Visualisasi : Map chart
       - Data : kode_pos, jumlah pengunjung, bulan,
 
-        ![img](./Map-of-Indonesia-and-its-population-density-Encyclopedia-Britannica-2017.png)
-    - Agregat pemasukan penjualan tiket perbulan
+        ![img](./img/Map-of-Indonesia-and-its-population-density-Encyclopedia-Britannica-2017.png)
+    - Agregat pemasukan penjualan tiket perminggu
       - Visualisasi : Line chart
       - Data : total harga tiket, total harga tiket / bulan, bulan, tahun
         
-        ![img](./Global-mobile-phone-market-share-the-Big-Five-2005-2011.png)
+        ![img](./img/Global-mobile-phone-market-share-the-Big-Five-2005-2011.png)
     - Agregat objek wisata terfavorit (pengunjung terbanyak)
       - Visualisasi : Bump chart
       - Data : jenis tiket, tiket terjual, bulan, tahun
         
-        ![img](./Screenshot%202022-06-09%20102430.png)
+        ![img](./img/Screenshot%202022-06-09%20102430.png)
     - Agregat jumlah pengunjung perhari
       - Visualisasi : Calendar chart
       - Data : tiket terjual, hari,  bulan, tahun
         
-        ![img](./Screenshot%202022-06-09%20102532.png)
-    - Agregat jumlah jenis tiket terjual perbulan
+        ![img](./img/Screenshot%202022-06-09%20102532.png)
+    - Agregat jumlah jenis tiket terjual perminggu
       - Visualisasi : Bar chart
       - Data : jenis tiket, tiket terjual,  bulan, tahun
         
-        ![img](./51983590-13242480-24bf-11e9-93b7-d1a1b8b739e9.png)
+        ![img](./img/51983590-13242480-24bf-11e9-93b7-d1a1b8b739e9.png)
 
 
 3. Query SQL
@@ -90,3 +91,43 @@ View at [Homepage](https://github.com/ricky03knowhere/IF214002#pertemuan-14)
       GROUP BY (date_part('week'::text, dp.tanggal_wisata)), t.jenis_tiket_id
       ORDER BY (date_part('week'::text, dp.tanggal_wisata));
         ```
+
+
+
+## Tugas Praktikum
+- Data dummy
+    -  Wilayah / kota dengan pengunjung terbanyak
+        ![img](./img/Screenshot%202022-06-17%20083412.png)
+    -  Agregat pemasukan penjualan tiket perminggu
+
+        ![img](./img/Screenshot%202022-06-17%20083049.png)
+      
+    -  Agregat objek wisata terfavorit (pengunjung terbanyak)
+
+        ![img](./img/Screenshot%202022-06-17%20083440.png)
+    -  Agregat jumlah pengunjung perhari
+
+        ![img](./img/Screenshot%202022-06-17%20083352.png)
+    -  Agregat jumlah tiket terjual perminggu
+        ![img](./img/Screenshot%202022-06-17%20083218.png)
+
+- Web service untuk visualisasi data
+  
+  Link Project : [https://github.com/ricky03knowhere/bagendit_ticket_order](https://github.com/ricky03knowhere/bagendit_ticket_order)
+
+- GUI untuk visualisasi data (chart / diagram)
+  - Wilayah / kota dengan pengunjung terbanyak
+    
+    ![img](./img/Screenshot%202022-06-17%20083802.png)
+  - Agregat pemasukan penjualan tiket perminggu
+    
+    ![img](./img/Screenshot%202022-06-17%20083825.png)
+  - Agregat objek wisata terfavorit (pengunjung terbanyak)
+    
+    ![img](./img/Screenshot%202022-06-17%20083931.png)
+  - Agregat jumlah pengunjung perhari
+    
+    ![img](./img/Screenshot%202022-06-17%20083734.png)
+  - Agregat jumlah tiket terjual perminggu
+    
+    ![img](./img/Screenshot%202022-06-17%20083903.png)
