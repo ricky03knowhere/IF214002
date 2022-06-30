@@ -27,7 +27,7 @@
 - [Pertemuan 12](#pertemuan-12)
 - [Pertemuan 13](#pertemuan-13)
 - [Pertemuan 14](#pertemuan-14)
-- [Pertemuan 15](#pertemuan-15)
+- [Pertemuan 16](#pertemuan-16)
 
 ### [Pertemuan 1](pertemuan_1)
 - ⚡Instalasi Diagrams.net
@@ -100,3 +100,6 @@
 ### [Pertemuan 15](pertemuan_15)
 - 🚀 `UPDATE` : Memaparkan QnA Pemahaman Dasar Web Service
 - 🚀 `UPDATE` : Tutorial Membangun Database, Web Service, Aplikasi CRUD dan Visualisasi Data dengan MySQL, PHP, dan Javascript
+
+### [Pertemuan 16](UAS_teori)
+- ✅ `CREATE` : Mengerjakan UAS Teori
