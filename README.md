@@ -27,7 +27,7 @@
 - [Pertemuan 12](#pertemuan-12)
 - [Pertemuan 13](#pertemuan-13)
 - [Pertemuan 14](#pertemuan-14)
-- [Pertemuan 16](#pertemuan-16)
+- [Pertemuan 16 (UAS)](#pertemuan-16)
 
 ### [Pertemuan 1](pertemuan_1)
 - ⚡Instalasi Diagrams.net
@@ -72,7 +72,7 @@
 
 ### [Pertemuan 8](#!)
 - ✅ `CREATE` : Mengerjakan UTS
-    - [Soal & jawaban UTS](UTS)
+    - [Soal & jawaban UTS](UTS_teori)
 - ✅ `CREATE` : Mengerjakan UTS Praktikum
   - [Soal & jawaban UTS Praktikum](UTS_praktikum)
 
@@ -101,5 +101,8 @@
 - 🚀 `UPDATE` : Memaparkan QnA Pemahaman Dasar Web Service
 - 🚀 `UPDATE` : Tutorial Membangun Database, Web Service, Aplikasi CRUD dan Visualisasi Data dengan MySQL, PHP, dan Javascript
 
-### [Pertemuan 16](UAS_teori)
+### [Pertemuan 16](#!)
 - ✅ `CREATE` : Mengerjakan UAS Teori
+    - [Soal & jawaban UAS](UAS_teori)
+- ✅ `CREATE` : Mengerjakan UAS Praktikum
+  - [Soal & jawaban UAS Praktikum](UAS_praktikum)
